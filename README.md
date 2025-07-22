@@ -41,8 +41,8 @@ adb-boost-toolkit/ ├─ boost_android.sh     # Shell script (Unix/Linux/macOS)
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/adb-boost-toolkit.git
-   cd adb-boost-toolkit
+   git clone https://github.com/hacker50-us/adb-boost-toolkit.git
+   cd adb-boost-toolkit 
 
 2. On Unix/Linux/macOS
 
