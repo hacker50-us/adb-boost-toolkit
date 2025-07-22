@@ -55,8 +55,11 @@ adb-boost-toolkit/ ├─ boost_android.sh     # Shell script (Unix/Linux/macOS)
 
 Double-click boost_android.bat or run in CMD:
 
-```bash
+    ```
+    
       boost_android.bat
+
+
 
 
   ---
